@@ -1,1 +1,1 @@
-download ipa file [https://github.com/Megagonn/ios/raw/main/fetech.ipa]
+- [download ipa file](https://github.com/Megagonn/ios/raw/main/fetech.ipa)
