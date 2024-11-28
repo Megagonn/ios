@@ -1,0 +1,1 @@
+download ipa file [https://github.com/Megagonn/ios/raw/main/fetech.ipa]
